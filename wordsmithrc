@@ -1,0 +1,8 @@
+add vocab/verb_roots.txt as vr
+add vocab/verb_prefixes.txt as vp
+add vocab/verb_suffixes.txt as vs
+add vocab/noun_roots.txt as nr
+add vocab/noun_prefixes.txt as np
+add vocab/noun_suffixes.txt as ns
+alias verb as new 1 vr 1 vs 1 vp
+alias noun as new 1 nr 1 np 1 ns
